@@ -1,5 +1,5 @@
-import { Button } from '@/components/ui/button'
-import { Activity, Check, FileText, Gauge, Globe } from 'lucide-react'
+
+import { Activity, FileText, Gauge, Globe } from 'lucide-react'
 import React from 'react'
 
 const Services = () => {

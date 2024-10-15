@@ -30,7 +30,7 @@ const About = () => {
         </div>
         <div>
           <p className="text-gray-600 mb-4">
-            We're experts in software development with a proven track record of exceeding clients' expectations. Our team follows a rigorous process for transparent and timely project delivery. We stay up-to-date with the latest industry trends and continually refine our approach for the best outcomes.
+            We&apos;re experts in software development with a proven track record of exceeding clients expectations. Our team follows a rigorous process for transparent and timely project delivery. We stay up-to-date with the latest industry trends and continually refine our approach for the best outcomes.
           </p>
           <Button 
             variant="outline" 
